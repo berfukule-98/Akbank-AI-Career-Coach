@@ -1,0 +1,6 @@
+{
+  "name": "KariyerPusula - AI Mülakat & Kariyer Koçu",
+  "description": "Değerlendirici unvanına özel mülakat simülasyonu, yapay zeka puanlama/geri bildirimi ve eğitim geçmişine göre kişiselleştirilmiş eğitim yol haritası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
